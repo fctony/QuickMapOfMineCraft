@@ -10,8 +10,8 @@
 
 
 ### 下面是效果演示：
-![白天的效果图](https://github.com/fctony/QuickMapOfMineCraft/blob/master/Assets/Image/sun.png)
-![夜晚的效果图](https://github.com/fctony/QuickMapOfMineCraft/blob/master/Assets/Image/moon.png)
-![操作说明](https://github.com/fctony/QuickMapOfMineCraft/blob/master/Assets/Image/bg2.png)
-![销毁效果图](https://github.com/fctony/QuickMapOfMineCraft/blob/master/Assets/Image/bg.png)
-![创建效果图](https://github.com/fctony/QuickMapOfMineCraft/blob/master/Assets/Image/bg1.png)
+![](https://github.com/fctony/QuickMapOfMineCraft/blob/master/Assets/Image/sun.png)
+![](https://github.com/fctony/QuickMapOfMineCraft/blob/master/Assets/Image/moon.png)
+![](https://github.com/fctony/QuickMapOfMineCraft/blob/master/Assets/Image/bg2.png)
+![](https://github.com/fctony/QuickMapOfMineCraft/blob/master/Assets/Image/bg.png)
+![](https://github.com/fctony/QuickMapOfMineCraft/blob/master/Assets/Image/bg1.png)
